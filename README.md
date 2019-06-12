@@ -10,6 +10,6 @@ This script will automate all the procedures that do not require human intellige
 No such requirement. Can be done on any computer. Make sure to have the system compatibilities as per NIRx guidelines while running the software and the script.
 
 # THINGS TO TAKE CARE BEFORE RUNNING THE SCRIPT
-Make sure you have script reader and editor of AutIt installed in your computer. Make some desired changes according to your workflow and press F5 to run the script, and the magic will begin.
+Make sure you have all the details read of the things that you want to perform in nirsLAB. Give special attention to the optode selection for specific individuals if you are looking for individual data from individual optode wrt to its position. Also, the script reader and editor of AutoIt should be installed in your computer. Make necessary changes according to your workflow and press F5 to run the script, and the magic will begin.
 
 Cheers and best of luck!
