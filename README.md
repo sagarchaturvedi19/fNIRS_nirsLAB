@@ -8,6 +8,7 @@ This script will automate all the procedures that do not require human intervent
 
 # SYSTEM AND PROGRAM REQUIREMENTS
 AutoIT reader and editor. https://www.autoitscript.com/site/
+
 Laptops or desktops made after 2010.
 
 # THINGS TO TAKE CARE BEFORE RUNNING THE SCRIPT
